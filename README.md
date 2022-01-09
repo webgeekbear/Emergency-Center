@@ -46,7 +46,7 @@ The following demonstrates the web application's appearance and functionality:
 
 ## Websites
 [Repository](https://github.com/flowingcityloy/Emergency-Center)<br />
-[Live site](https://emergency-center.herokuapp.com//)
+[Live site](https://emergency-center.herokuapp.com/)
 
 
 
